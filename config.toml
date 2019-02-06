@@ -15,7 +15,7 @@ custom_css = ["css/custom1.css", "css/custom2.css"]
 
   # Navigation
   [params.navigation]
-    brand = "Elate"
+    brand = "Ezsticksfix"
     home = "Home"
     work = "Work"
     testimonials = "Testimonials"
@@ -82,11 +82,11 @@ custom_css = ["css/custom1.css", "css/custom2.css"]
   [params.work]
     enable = true
     title = "Work"
-    description = "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts."
+    description = "we each work hard to be able to make your need come alive on the world wide web.."
     footertext = '** Demo images from <a href="http://plmd.me/" target="_blank">plmd.me</a>'
 
     [[params.work.row]]
-      img = "work_1.jpg"
+      img = "meinsuit.jpg"
       alt = "Image2"
       title = "Project 1"
       subtitle = "Branding"
@@ -263,10 +263,10 @@ custom_css = ["css/custom1.css", "css/custom2.css"]
     
     # Available icons: http://simplelineicons.com/
     details = [
-        ["icon-home", "5555 Love Paradise 56 New Clity 5655, <br> Excel Tower United Kingdom"],
-        ["icon-phone", "(123) 465-6789"],
-        ["icon-envelope", "info@freehtml5.co"],
-        ["icon-globe", '<a href="http://freehtml5.co/" target="_blank">freehtml5.co</a>']
+        ["icon-home", "New York,NY"],
+        ["icon-phone", "(646) 912 - 0384"],
+        ["icon-envelope", "ramonm85@gmail.com"],
+        ["icon-globe", '<a href="http://www.ezsticksfix.com/" target="_blank">www.ezsticksfix.com/</a>']
       ]
 
     name = "Name"
