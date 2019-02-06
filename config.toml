@@ -1,4 +1,4 @@
-baseURL = "https://ezstickfix.com"
+baseURL = ""
 languageCode = "en-us"
 title = "EZ STICK FIX"
 theme = "hugo-elate-theme"
