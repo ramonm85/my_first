@@ -40,8 +40,8 @@ custom_css = ["css/custom1.css", "css/custom2.css"]
   
   # Hero section
   [params.hero]
-    title = "Do something you love."
-    subtitle = 'Another free HTML5 bootstrap template by <a href="http://freehtml5.co/" target="_blank" title="Free HTML5 Bootstrap Templates">FREEHTML5.co</a> released under <a href="http://creativecommons.org/licenses/by/3.0/" target="_blank">Creative Commons 3.0</a><br> ported for Hugo by <a href="http://saey55.gitlab.io/pietercv" target="_blank">Pieter Saey</a>'
+    title = "An extremely easy way to handle your Web Presence"
+    subtitle = 'We can make your business or personal life easy by allowing us to deal with your web pressence and needs.'
  
   # Intro section
   # Available icons: http://simplelineicons.com/
@@ -49,7 +49,7 @@ custom_css = ["css/custom1.css", "css/custom2.css"]
 
   [[params.intro.item]]
     title = "Plan"
-    description = "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts."
+    description = "Have the right audience visit your page and fulfill the needs you and your audience is looking for "
     url = "#"
     button = "Get In Touch"
     icon = "icon-bulb"
@@ -57,7 +57,7 @@ custom_css = ["css/custom1.css", "css/custom2.css"]
 
   [[params.intro.item]]
     title = "Develop"
-    description = "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts."
+    description = "To incorporate a beautiful and sleek page that fits your needs."
     url = "#"
     button = "Click Me"
     icon = "icon-wrench"
@@ -65,7 +65,7 @@ custom_css = ["css/custom1.css", "css/custom2.css"]
 
   [[params.intro.item]]
     title = "Launch"
-    description = "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts."
+    description = "Launch the dream website youve been looking for we are working hard on having you love your website and the audience flowing in and out ."
     url = "#"
     button = "Why us?"
     icon = "icon-rocket"
@@ -75,7 +75,7 @@ custom_css = ["css/custom1.css", "css/custom2.css"]
     enable = true
     title = "Watch the video"
     icon = "icon-play2"
-    url = "https://vimeo.com/channels/staffpicks/93951774"
+    url = "https://www.youtube.com/watch?v=_mDjhn-OAmw&t=22s"
 
 
   # Work section
