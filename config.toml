@@ -6,9 +6,9 @@ theme = "hugo-elate"
 custom_css = ["css/custom1.css", "css/custom2.css"]
 
   # Meta
-  author = ""
+  author = "ramon marmol"
   description = ""
-  email = ""
+  email = "ramonm85@gmail.com"
 
   # Google Maps Javascript API Key (if not set will default to not passing a key)
   googleMapsApiKey = ""
