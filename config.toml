@@ -1,4 +1,4 @@
-baseURL = "https://ramonm85.github.io/my_first/"
+baseURL = "/"
 languageCode = "en-us"
 title = "ezstickfix.com"
 theme = "hugo-elate-theme"
