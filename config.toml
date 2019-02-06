@@ -1,6 +1,6 @@
-baseURL = ""
+baseURL = "/"
 languageCode = "en-us"
-title = "EZ STICK FIX"
+title = "EZ STICK FIX.com"
 theme = "hugo-elate-theme"
 
 custom_css = ["css/custom1.css", "css/custom2.css"]
