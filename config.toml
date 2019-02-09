@@ -268,9 +268,6 @@ custom_css = ["css/custom1.css", "css/custom2.css"]
         ["icon-envelope", "ramonm85@gmail.com"],
         ["icon-globe", '<a href="http://www.ezsticksfix.com/" target="_blank">www.ezsticksfix.com/</a>']
       ]
-      
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSf5lkABqWxF2u7AKYM_UcIR-rjio8d1LRSOz6oI689CkYYiHw/viewform?embedded=true" width="640" height="1261" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
-
 
     name = "Name"
     email = "Email"
