@@ -268,7 +268,9 @@ custom_css = ["css/custom1.css", "css/custom2.css"]
         ["icon-envelope", "ramonm85@gmail.com"],
         ["icon-globe", '<a href="http://www.ezsticksfix.com/" target="_blank">www.ezsticksfix.com/</a>']
       ]
-      https://docs.google.com/forms/d/e/1FAIpQLSf5lkABqWxF2u7AKYM_UcIR-rjio8d1LRSOz6oI689CkYYiHw/viewform?usp=pp_url&entry.1266304064=Ramon+A+Marmol&entry.2079021482=86-33+79th+street&entry.299743573=6469120384&entry.1329441134=ramonm85@gmail.com&entry.1612182245=Self/+Usted&entry.559890937=Dominican+Republic&entry.1993329015=Do+you+need+help+with+your+certificate+of+citizenship?+(N-600)
+      
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSf5lkABqWxF2u7AKYM_UcIR-rjio8d1LRSOz6oI689CkYYiHw/viewform?embedded=true" width="640" height="1261" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
+
 
     name = "Name"
     email = "Email"
