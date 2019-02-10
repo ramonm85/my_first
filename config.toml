@@ -17,8 +17,6 @@ custom_css = ["css/custom1.css", "css/custom2.css"]
   [params.navigation]
     brand = "Ezsticksfix"
     home = "Home"
-    work = "Work"
-    testimonials = "Testimonials"
     services = "Services"
     about = "About"
     contact = "Contact"
@@ -50,7 +48,7 @@ custom_css = ["css/custom1.css", "css/custom2.css"]
   [[params.intro.item]]
     title = "Plan"
     description = "Have the right audience visit your page and fulfill the needs you and your audience is looking for "
-    url = "#"
+    url = "https://goo.gl/forms/0MJYVMphG5Qa4q9I3"
     button = "Get In Touch"
     icon = "icon-bulb"
     img = "img_7.jpg"
@@ -71,80 +69,6 @@ custom_css = ["css/custom1.css", "css/custom2.css"]
     icon = "icon-rocket"
     img = "img_10.jpg"
 
-  [params.intro.video]
-    enable = true
-    title = "Watch the video"
-    icon = "icon-play2"
-    url = "https://www.youtube.com/watch?v=_mDjhn-OAmw&t=22s"
-
-
-  # Work section
-  [params.work]
-    enable = true
-    title = "Work"
-    description = "we each work hard to be able to make your need come alive on the world wide web.."
-    footertext = ''
-
-    [[params.work.row]]
-      img = "meinsuit.png"
-      alt = "Image2"
-      title = "Project 1"
-      subtitle = "Branding"
-
-    [[params.work.row]]
-      img = "work_2.jpg"
-      alt = "Image2"
-      title = "Project 2"
-      subtitle = "Design"
-
-    [[params.work.row]]
-      img = "work_3.jpg"
-      alt = "Image3"
-      title = "Project 3"
-      subtitle = "Design"
-
-    [[params.work.row]]
-      img = "work_4.jpg"
-      alt = "Image4"
-      title = "Project 4"
-      subtitle = "Design"
-
-    [[params.work.row]]
-      img = "work_5.jpg"
-      alt = "Image5"
-      title = "Project 5"
-      subtitle = "Design"
-
-    [[params.work.row]]
-      img = "work_6.jpg"
-      alt = "Image6"
-      title = "Project 6"
-      subtitle = "Design"
-
-  # Testimonials section
-  [params.testimonials]
-    enable = true
-    title = "Testimonials"
-    description = "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts."
-
-    [[params.testimonials.item]]
-      quote = "&ldquo;Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean.&rdquo;"
-      person = 'Jean Doe, CEO <a href="http://freehtml5.co/" target="_blank">FREEHTML5.co</a> <span class="subtext">Creative Director</span>'
-      img = "person1.jpg"
-      alt = "Person1"
-
-    [[params.testimonials.item]]
-      quote = "&ldquo;Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean. Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.&rdquo;"
-      person = 'John Doe, Senior UI <a href="http://freehtml5.co/" target="_blank">FREEHTML5.co</a> <span class="subtext">Creative Director</span>'
-      img = "person2.jpg"
-      alt = "Person2"
-
-    [[params.testimonials.item]]
-      quote = "&ldquo;Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. &rdquo;"
-      person = 'Chris Nash, Director <a href="http://freehtml5.co/" target="_blank">FREEHTML5.co</a> <span class="subtext">Creative Director</span>'
-      img = "person3.jpg"
-      alt = "Person3"
-    
 
 
 
@@ -203,17 +127,8 @@ custom_css = ["css/custom1.css", "css/custom2.css"]
         ["icon-github", "#"]
       ]
 
-    [[params.about.item]]
-      name = "Larry Ben"
-      position = "Web Designer"
-      description = "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts"
-      img = "person3.jpg"
-      alt = "Person3"
-      social = [
-        ["icon-twitter", "#"],
-        ["icon-facebook", "#"],
-        ["icon-dribbble", "#"]
-      ]      
+    
+      
 
   # Counters section
   [params.counters]

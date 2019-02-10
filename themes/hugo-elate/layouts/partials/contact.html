@@ -19,42 +19,6 @@
 					{{ end }}
 					</ul>
 				</div>
-				{{ if .Site.Params.contact.form }}
-				<div class="col-md-6 to-animate">
-					<form method="post" action="//formspree.io/{{ with .Site.Params.email }}{{.}}{{ end }}">
-					<div class="form-group ">
-						{{ with .Site.Params.contact.name }}
-						<label for="name" class="sr-only">{{ . | markdownify }}</label>
-						<input id="name" class="form-control" name="name" placeholder="{{ . }}" type="text">
-						{{ end }}
-					</div>
-					<div class="form-group ">
-						{{ with .Site.Params.contact.email }}
-						<label for="email" class="sr-only">{{ . | markdownify }}</label>
-						<input id="email" class="form-control" name="_replyto" placeholder="{{ . }}" type="email">
-						{{ end }}
-					</div>
-					<div class="form-group ">
-						{{ with .Site.Params.contact.phone }}
-						<label for="phone" class="sr-only">{{ . | markdownify }}</label>
-						<input id="phone" class="form-control" name="phone" placeholder="{{ . }}" type="text">
-						{{ end }}
-					</div>
-					<div class="form-group ">
-						{{ with .Site.Params.contact.message }}
-						<label for="message" class="sr-only">{{ . | markdownify }}</label>
-						<textarea id="message" cols="30" rows="5" class="form-control" name="message" placeholder="{{ . }}"></textarea>
-						{{ end }}
-					</div>
-					<div class="form-group ">
-						<input class="btn btn-primary btn-lg" value="{{ .Site.Params.contact.button | markdownify }}" type="submit">
-					</div>
-					</form>
+				<div style="margin:15 ;"><iframe src="https://docs.google.com/forms/d/e/1FAIpQLSf5lkABqWxF2u7AKYM_UcIR-rjio8d1LRSOz6oI689CkYYiHw/viewform?embedded=true" width="640" height="1261" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
 				</div>
-				{{ end }}
-			</div>
-		</div>
-		{{ if .Site.Params.contact.map }}
-        	<div id="map" class="to-animate"></div>
-		{{ end }}
 	</section>
