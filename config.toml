@@ -76,7 +76,7 @@ custom_css = ["css/custom1.css", "css/custom2.css"]
   [params.services]
     enable = true
     title = "Services"
-    description = "we can provide with much needed guidance in any immigration status. <br/> <h1>As well as your Tax Needs</h1>"
+    description = "we can provide with much needed guidance in any immigration status. <br/> As well as your Tax Needs"
 
     [[params.services.item]]
       title = "Brand &amp; Strategy"
@@ -90,12 +90,12 @@ custom_css = ["css/custom1.css", "css/custom2.css"]
     [[params.services.item]]
       title = "Photo &amp; Video"
       description = "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean"
-      icon = "icon-credit-card"
+      icon = "icon-plane"
 
       [[params.services.item]]
       title = "CMS &amp; eCommerce"
       description = "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean"      
-      icon = "icon-monitor"
+      icon = "icon-user-following"
 
   # About section
     [params.about]
